@@ -7,5 +7,5 @@
 
 
 <h3>Portfolio</h3>
-<img src="https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50%"/>
+<a href="https://www.linkedin.com/in/sawankhanchi16/" target="_blank"><img src="https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50%"/></a>
 
