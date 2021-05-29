@@ -7,5 +7,5 @@
 
 
 <h3>Portfolio</h3>
-<a href="https://sawankhanchi.netlify.app/" target="_blank"><img src="https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50%"/></a>
+target="_blank"><img src="https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50%"/>
 
