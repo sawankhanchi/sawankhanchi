@@ -19,43 +19,43 @@
       </a>
       <br>JavaScript
     </td>
-		<td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48"              height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-		<td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
-		<td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
-		<td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
   </tr>
-	<tr>
-		<td align="center" width="96">
+  <tr>
+     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Styled Components
     </td>
-		<td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
-        <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" width="48" height="48" alt="Node JS" />
+        <img src="https://testing-library.com/img/logo-large.png" width="48" height="48" alt="React" />
       </a>
-      <br>SASS
+      <br>React Testing Library
     </td>
     <td align="center" width="96">
       <a href="#">
