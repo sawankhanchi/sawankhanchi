@@ -9,6 +9,19 @@
 - ✨ &nbsp; Check my [portfolio](https://sawankhanchi.netlify.app/ "Sawan Khanchi") built using React,js
 - :envelope: &nbsp; Check my React certificate, [Front-End App with React Skill Path Certificate](https://www.codecademy.com/profiles/sawankhanchi/certificates/5c9ce0b45f1de879ebcad4fd 'Certificate')
 
+#### Skills 👨‍💻
+
+- JavaScript, CSS & HTML
+- React
+- Python
+- MongoDB and mySql3
+- Redux, Context API
+- Styled Components, Tailwind CSS
+- Material UI, Chakra UI, Ant Design
+- Responsive web design
+- React testing library & Jest and Cypress
+- Agile and Scrum
+
 #### Tools I like to work with 👨‍💻
 
 <table align="">
@@ -73,7 +86,7 @@
       <a href="#">
         <img src="https://img.icons8.com/color/344/chakra-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Chkra UI
+      <br>Chakra UI
     </td>
   </tr>
 </table>
