@@ -13,7 +13,6 @@
 
 - JavaScript, CSS & HTML
 - React
-- Python
 - MongoDB and mySql3
 - Redux, Context API
 - Styled Components, Tailwind CSS
