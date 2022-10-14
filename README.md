@@ -63,6 +63,12 @@
       </a>
       <br>Material ui
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Ant Design
+    </td>
   </tr>
 </table>
 
