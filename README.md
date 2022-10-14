@@ -61,13 +61,19 @@
       <a href="#">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Material ui
+      <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Material UI" />
       </a>
       <br>Ant Design
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.icons8.com/color/344/chakra-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Chkra UI
     </td>
   </tr>
 </table>
