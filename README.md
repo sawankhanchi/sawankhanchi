@@ -13,7 +13,7 @@
 
 - JavaScript, CSS & HTML
 - React
-- MongoDB and mySql3
+- MongoDB and MySql3
 - Redux, Context API
 - Styled Components, Tailwind CSS
 - Material UI, Chakra UI, Ant Design
